@@ -198,4 +198,4 @@ class Bank:
             else:
                 print('Не правильно ввели номер услуги')
 
-Bank.main()
+
